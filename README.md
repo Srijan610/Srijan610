@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Srijan Mondal and I'm a web developer ....</p>
+<p align="left">My name is Srijan Mondal 
+  <br>
+  I'm a web developer ....</p>
 
 ###
 
